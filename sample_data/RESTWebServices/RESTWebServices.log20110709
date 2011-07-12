@@ -1,0 +1,1046 @@
+INFO  2011-07-09 12:30:15,346 6416 RESTWebServices.UserNameThrottle Starting background cleanup process with period of 3600 seconds.
+INFO  2011-07-09 12:30:15,350 13088 RESTWebServices.UserNameThrottle Running timestamp cleanup process for 0 users.
+INFO  2011-07-09 12:30:15,381 6416 RESTWebServices.ThrottlingLogger Starting throttling log writer with period of 30 seconds.
+INFO  2011-07-09 12:30:15,948 2528 RESTWebServices.LoginService Sending login request to Gateway for UserName:xx189949
+INFO  2011-07-09 12:30:19,469 2528 ObjectPooling.Pool`1[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] The Number of Pooled Objects are 0 and the max number of Pooled Objects is set to 15.0 pooled object is in use so create a new object
+INFO  2011-07-09 12:30:21,200 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:30:21,938 2528 RESTWebServices.LoginService _LogOn_. UserName xx189949. Duration 6010ms
+INFO  2011-07-09 12:30:25,236 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:30:25,270 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 39ms
+INFO  2011-07-09 12:30:25,323 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:30:25,378 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 89ms
+INFO  2011-07-09 12:30:25,877 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:30:25,909 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 35ms
+INFO  2011-07-09 12:30:25,939 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:30:25,974 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 44ms
+INFO  2011-07-09 12:30:28,710 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:30:28,741 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 31ms
+INFO  2011-07-09 12:30:28,746 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:30:28,768 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 24ms
+INFO  2011-07-09 12:30:29,087 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:30:29,114 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 27ms
+INFO  2011-07-09 12:30:29,121 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:30:29,140 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 21ms
+INFO  2011-07-09 12:30:31,705 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:30:31,741 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 37ms
+INFO  2011-07-09 12:30:31,746 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:30:31,769 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 23ms
+INFO  2011-07-09 12:30:34,711 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:30:34,741 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 31ms
+INFO  2011-07-09 12:30:34,747 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:30:34,769 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 24ms
+INFO  2011-07-09 12:30:35,088 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:30:35,113 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 26ms
+INFO  2011-07-09 12:30:35,135 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:30:35,154 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 22ms
+INFO  2011-07-09 12:30:37,705 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:30:37,734 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 29ms
+INFO  2011-07-09 12:30:37,741 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:30:37,764 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 25ms
+INFO  2011-07-09 12:30:40,699 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:30:40,732 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 35ms
+INFO  2011-07-09 12:30:40,739 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:30:40,762 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 24ms
+INFO  2011-07-09 12:30:41,076 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:30:41,104 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 29ms
+INFO  2011-07-09 12:30:41,110 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:30:41,133 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 25ms
+INFO  2011-07-09 12:30:43,693 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:30:43,726 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 34ms
+INFO  2011-07-09 12:30:43,732 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:30:43,759 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 29ms
+INFO  2011-07-09 12:30:46,685 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:30:46,718 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 33ms
+INFO  2011-07-09 12:30:46,724 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:30:46,747 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 25ms
+INFO  2011-07-09 12:30:47,057 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:30:47,090 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 34ms
+INFO  2011-07-09 12:30:47,095 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:30:47,116 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 23ms
+INFO  2011-07-09 12:30:49,677 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:30:49,710 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 35ms
+INFO  2011-07-09 12:30:49,715 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:30:49,738 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 24ms
+INFO  2011-07-09 12:30:52,675 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:30:52,709 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 36ms
+INFO  2011-07-09 12:30:52,713 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:30:52,736 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 24ms
+INFO  2011-07-09 12:30:53,045 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:30:53,073 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 29ms
+INFO  2011-07-09 12:30:53,079 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:30:53,101 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 23ms
+INFO  2011-07-09 12:30:55,668 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:30:55,705 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 38ms
+INFO  2011-07-09 12:30:55,711 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:30:55,734 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 25ms
+INFO  2011-07-09 12:30:58,659 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:30:58,689 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 30ms
+INFO  2011-07-09 12:30:58,696 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:30:58,721 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 28ms
+INFO  2011-07-09 12:30:59,032 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:30:59,059 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 28ms
+INFO  2011-07-09 12:30:59,065 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:30:59,086 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 22ms
+INFO  2011-07-09 12:31:01,665 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:01,695 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 30ms
+INFO  2011-07-09 12:31:01,701 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:01,726 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 28ms
+INFO  2011-07-09 12:31:04,659 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:04,689 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 30ms
+INFO  2011-07-09 12:31:04,696 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:04,719 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 25ms
+INFO  2011-07-09 12:31:05,034 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:05,062 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 28ms
+INFO  2011-07-09 12:31:05,069 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:05,092 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 26ms
+INFO  2011-07-09 12:31:07,653 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:07,683 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 30ms
+INFO  2011-07-09 12:31:07,689 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:07,712 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 25ms
+INFO  2011-07-09 12:31:10,643 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:10,673 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 30ms
+INFO  2011-07-09 12:31:10,678 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:10,699 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 24ms
+INFO  2011-07-09 12:31:11,022 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:11,063 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 42ms
+INFO  2011-07-09 12:31:11,069 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:11,090 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 23ms
+INFO  2011-07-09 12:31:13,638 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:13,669 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 30ms
+INFO  2011-07-09 12:31:13,674 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:13,696 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 24ms
+INFO  2011-07-09 12:31:16,633 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:16,664 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 31ms
+INFO  2011-07-09 12:31:16,672 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:16,695 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 25ms
+INFO  2011-07-09 12:31:17,008 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:17,037 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 28ms
+INFO  2011-07-09 12:31:17,044 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:17,065 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 23ms
+INFO  2011-07-09 12:31:19,628 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:19,663 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 36ms
+INFO  2011-07-09 12:31:19,671 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:19,693 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 25ms
+INFO  2011-07-09 12:31:22,618 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:22,649 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 30ms
+INFO  2011-07-09 12:31:22,654 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:22,678 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 25ms
+INFO  2011-07-09 12:31:22,993 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:23,021 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 27ms
+INFO  2011-07-09 12:31:23,026 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:23,047 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 23ms
+INFO  2011-07-09 12:31:25,615 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:25,644 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 30ms
+INFO  2011-07-09 12:31:25,646 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:25,672 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 24ms
+INFO  2011-07-09 12:31:28,621 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:28,654 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 33ms
+INFO  2011-07-09 12:31:28,728 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:28,751 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 94ms
+INFO  2011-07-09 12:31:29,116 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:29,142 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 27ms
+INFO  2011-07-09 12:31:29,146 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:29,167 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 21ms
+INFO  2011-07-09 12:31:31,068 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:31,095 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 28ms
+INFO  2011-07-09 12:31:31,100 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:31,119 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 19ms
+INFO  2011-07-09 12:31:31,470 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:31,498 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 27ms
+INFO  2011-07-09 12:31:31,524 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:31,998 2528 RESTWebServices.CfdMarkets _ListCfdMarkets_. UserName XX189949. Duration 482ms
+INFO  2011-07-09 12:31:32,203 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:32,236 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 33ms
+INFO  2011-07-09 12:31:32,241 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:32,264 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 25ms
+INFO  2011-07-09 12:31:34,635 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:34,664 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 29ms
+INFO  2011-07-09 12:31:34,669 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:34,691 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 22ms
+INFO  2011-07-09 12:31:35,011 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:35,037 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 26ms
+INFO  2011-07-09 12:31:35,041 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:35,060 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 20ms
+INFO  2011-07-09 12:31:37,645 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:37,672 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 28ms
+INFO  2011-07-09 12:31:37,677 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:37,697 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 22ms
+INFO  2011-07-09 12:31:40,654 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:40,684 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 30ms
+INFO  2011-07-09 12:31:40,690 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:40,712 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 23ms
+INFO  2011-07-09 12:31:40,947 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:40,974 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 28ms
+INFO  2011-07-09 12:31:40,997 2528 RESTWebServices.MarketPriceHistoryService Price history bar request market 99498
+INFO  2011-07-09 12:31:41,004 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:41,553 252 ObjectPooling.Pool`1[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] The Number of Pooled Objects are 1 and the max number of Pooled Objects is set to 15.1 pooled object is in use so create a new object
+INFO  2011-07-09 12:31:41,607 252 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 2
+INFO  2011-07-09 12:31:41,635 252 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 82ms
+INFO  2011-07-09 12:31:41,639 252 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 2
+INFO  2011-07-09 12:31:41,664 252 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 26ms
+INFO  2011-07-09 12:31:42,056 2528 RESTWebServices.MarketPriceHistoryService _GetPriceBars_. UserName XX189949. Duration 1058ms
+INFO  2011-07-09 12:31:43,661 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:43,690 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 29ms
+INFO  2011-07-09 12:31:43,695 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:43,720 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 26ms
+INFO  2011-07-09 12:31:46,687 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:46,717 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 31ms
+INFO  2011-07-09 12:31:46,723 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:46,745 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 23ms
+INFO  2011-07-09 12:31:47,122 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:47,146 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 25ms
+INFO  2011-07-09 12:31:47,151 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:47,172 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 23ms
+INFO  2011-07-09 12:31:49,680 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:49,716 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 36ms
+INFO  2011-07-09 12:31:49,722 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:49,742 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 21ms
+INFO  2011-07-09 12:31:52,721 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:52,751 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 30ms
+INFO  2011-07-09 12:31:52,757 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:52,777 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 23ms
+INFO  2011-07-09 12:31:53,093 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:53,131 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 38ms
+INFO  2011-07-09 12:31:53,135 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:53,156 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 21ms
+INFO  2011-07-09 12:31:55,728 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:55,758 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 29ms
+INFO  2011-07-09 12:31:55,762 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:55,784 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 23ms
+INFO  2011-07-09 12:31:58,721 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:58,751 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 29ms
+INFO  2011-07-09 12:31:58,754 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:58,786 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 33ms
+INFO  2011-07-09 12:31:59,116 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:59,144 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 28ms
+INFO  2011-07-09 12:31:59,148 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:31:59,167 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 20ms
+INFO  2011-07-09 12:32:01,763 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:01,791 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 28ms
+INFO  2011-07-09 12:32:01,796 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:01,817 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 22ms
+INFO  2011-07-09 12:32:03,403 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:03,442 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 40ms
+INFO  2011-07-09 12:32:03,447 2528 RESTWebServices.MarketPriceHistoryService Price history bar request market 99498
+INFO  2011-07-09 12:32:03,452 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:03,466 2528 RESTWebServices.MarketPriceHistoryService _GetPriceBars_. UserName XX189949. Duration 19ms
+INFO  2011-07-09 12:32:04,802 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:04,830 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 29ms
+INFO  2011-07-09 12:32:04,835 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:04,856 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 21ms
+INFO  2011-07-09 12:32:05,153 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:05,178 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 26ms
+INFO  2011-07-09 12:32:05,183 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:05,200 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 19ms
+INFO  2011-07-09 12:32:07,795 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:07,826 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 32ms
+INFO  2011-07-09 12:32:07,831 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:07,851 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 21ms
+INFO  2011-07-09 12:32:10,804 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:10,833 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 29ms
+INFO  2011-07-09 12:32:10,838 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:10,859 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 22ms
+INFO  2011-07-09 12:32:11,182 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:11,208 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 26ms
+INFO  2011-07-09 12:32:11,211 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:11,230 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 19ms
+INFO  2011-07-09 12:32:13,797 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:13,823 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 26ms
+INFO  2011-07-09 12:32:13,826 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:13,847 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 22ms
+INFO  2011-07-09 12:32:16,791 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:16,821 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 30ms
+INFO  2011-07-09 12:32:16,825 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:16,844 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 21ms
+INFO  2011-07-09 12:32:17,185 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:17,210 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 25ms
+INFO  2011-07-09 12:32:17,215 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:17,238 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 24ms
+INFO  2011-07-09 12:32:19,816 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:19,841 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 26ms
+INFO  2011-07-09 12:32:19,851 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:19,870 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 21ms
+INFO  2011-07-09 12:32:22,813 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:22,842 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 30ms
+INFO  2011-07-09 12:32:22,847 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:22,868 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 22ms
+INFO  2011-07-09 12:32:23,244 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:23,277 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 33ms
+INFO  2011-07-09 12:32:23,282 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:23,301 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 20ms
+INFO  2011-07-09 12:32:25,836 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:25,864 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 29ms
+INFO  2011-07-09 12:32:25,869 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:25,893 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 24ms
+INFO  2011-07-09 12:32:28,825 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:28,853 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 28ms
+INFO  2011-07-09 12:32:28,858 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:28,879 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 21ms
+INFO  2011-07-09 12:32:29,356 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:29,382 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 26ms
+INFO  2011-07-09 12:32:29,384 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:29,405 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 20ms
+INFO  2011-07-09 12:32:31,865 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:31,905 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 40ms
+INFO  2011-07-09 12:32:31,910 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:31,930 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 22ms
+INFO  2011-07-09 12:32:34,891 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:34,919 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 29ms
+INFO  2011-07-09 12:32:34,924 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:34,946 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 23ms
+INFO  2011-07-09 12:32:35,275 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:35,299 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 24ms
+INFO  2011-07-09 12:32:35,305 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:35,327 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 23ms
+INFO  2011-07-09 12:32:37,932 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:37,961 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 29ms
+INFO  2011-07-09 12:32:37,966 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:37,986 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 21ms
+INFO  2011-07-09 12:32:40,923 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:40,951 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 28ms
+INFO  2011-07-09 12:32:40,961 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:40,981 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 22ms
+INFO  2011-07-09 12:32:41,316 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:41,344 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 27ms
+INFO  2011-07-09 12:32:41,348 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:41,364 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 18ms
+INFO  2011-07-09 12:32:43,933 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:43,962 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 28ms
+INFO  2011-07-09 12:32:43,967 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:43,987 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 21ms
+INFO  2011-07-09 12:32:46,942 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:46,971 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 30ms
+INFO  2011-07-09 12:32:46,975 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:46,997 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 22ms
+INFO  2011-07-09 12:32:47,335 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:47,360 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 25ms
+INFO  2011-07-09 12:32:47,364 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:47,380 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 17ms
+INFO  2011-07-09 12:32:49,982 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:50,009 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 28ms
+INFO  2011-07-09 12:32:50,014 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:50,036 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 22ms
+INFO  2011-07-09 12:32:53,023 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:53,053 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 30ms
+INFO  2011-07-09 12:32:53,058 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:53,078 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 22ms
+INFO  2011-07-09 12:32:53,427 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:53,451 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 25ms
+INFO  2011-07-09 12:32:53,456 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:53,478 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 23ms
+INFO  2011-07-09 12:32:56,080 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:56,108 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 29ms
+INFO  2011-07-09 12:32:56,112 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:56,134 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 22ms
+INFO  2011-07-09 12:32:59,070 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:59,101 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 31ms
+INFO  2011-07-09 12:32:59,126 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:59,146 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 22ms
+INFO  2011-07-09 12:32:59,526 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:59,554 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 28ms
+INFO  2011-07-09 12:32:59,559 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:32:59,577 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 20ms
+INFO  2011-07-09 12:33:02,065 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:02,094 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 28ms
+INFO  2011-07-09 12:33:02,098 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:02,118 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 21ms
+INFO  2011-07-09 12:33:03,313 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:03,341 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 29ms
+INFO  2011-07-09 12:33:03,345 2528 RESTWebServices.MarketPriceHistoryService Price history bar request market 99498
+INFO  2011-07-09 12:33:03,349 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:03,362 2528 RESTWebServices.MarketPriceHistoryService _GetPriceBars_. UserName XX189949. Duration 17ms
+INFO  2011-07-09 12:33:05,061 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:05,090 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 29ms
+INFO  2011-07-09 12:33:05,095 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:05,115 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 21ms
+INFO  2011-07-09 12:33:05,444 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:05,468 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 24ms
+INFO  2011-07-09 12:33:05,473 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:05,491 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 19ms
+INFO  2011-07-09 12:33:08,066 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:08,094 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 28ms
+INFO  2011-07-09 12:33:08,100 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:08,126 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 27ms
+INFO  2011-07-09 12:33:11,076 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:11,105 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 30ms
+INFO  2011-07-09 12:33:11,111 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:11,133 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 24ms
+INFO  2011-07-09 12:33:11,532 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:11,559 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 27ms
+INFO  2011-07-09 12:33:11,565 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:11,585 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 21ms
+INFO  2011-07-09 12:33:14,075 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:14,108 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 35ms
+INFO  2011-07-09 12:33:14,117 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:14,142 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 29ms
+INFO  2011-07-09 12:33:17,099 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:17,130 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 32ms
+INFO  2011-07-09 12:33:17,136 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:17,160 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 25ms
+INFO  2011-07-09 12:33:17,502 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:17,527 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 25ms
+INFO  2011-07-09 12:33:17,531 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:17,549 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 20ms
+INFO  2011-07-09 12:33:20,115 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:20,145 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 30ms
+INFO  2011-07-09 12:33:20,151 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:20,172 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 24ms
+INFO  2011-07-09 12:33:23,127 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:23,161 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 35ms
+INFO  2011-07-09 12:33:23,166 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:23,188 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 23ms
+INFO  2011-07-09 12:33:23,543 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:23,569 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 26ms
+INFO  2011-07-09 12:33:23,575 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:23,597 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 24ms
+INFO  2011-07-09 12:33:26,136 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:26,169 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 33ms
+INFO  2011-07-09 12:33:26,175 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:26,196 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 23ms
+INFO  2011-07-09 12:33:29,165 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:29,196 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 32ms
+INFO  2011-07-09 12:33:29,202 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:29,228 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 28ms
+INFO  2011-07-09 12:33:30,613 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:30,640 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 28ms
+INFO  2011-07-09 12:33:30,645 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:30,669 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 24ms
+INFO  2011-07-09 12:33:32,247 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:32,274 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 28ms
+INFO  2011-07-09 12:33:32,279 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:32,299 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 21ms
+INFO  2011-07-09 12:33:35,274 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:35,307 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 35ms
+INFO  2011-07-09 12:33:35,313 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:35,336 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 25ms
+INFO  2011-07-09 12:33:35,665 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:35,698 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 32ms
+INFO  2011-07-09 12:33:35,703 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:35,723 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 22ms
+INFO  2011-07-09 12:33:38,282 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:38,311 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 29ms
+INFO  2011-07-09 12:33:38,320 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:38,344 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 29ms
+INFO  2011-07-09 12:33:41,326 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:41,357 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 32ms
+INFO  2011-07-09 12:33:41,364 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:41,386 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 24ms
+INFO  2011-07-09 12:33:41,792 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:41,820 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 28ms
+INFO  2011-07-09 12:33:41,826 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:41,848 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 23ms
+INFO  2011-07-09 12:33:44,369 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:44,398 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 32ms
+INFO  2011-07-09 12:33:44,404 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:44,428 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 25ms
+INFO  2011-07-09 12:33:47,390 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:47,420 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 31ms
+INFO  2011-07-09 12:33:47,427 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:47,451 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 26ms
+INFO  2011-07-09 12:33:47,803 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:47,844 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 41ms
+INFO  2011-07-09 12:33:47,849 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:47,871 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 22ms
+INFO  2011-07-09 12:33:50,415 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:50,448 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 33ms
+INFO  2011-07-09 12:33:50,454 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:50,479 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 26ms
+INFO  2011-07-09 12:33:53,440 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:53,476 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 37ms
+INFO  2011-07-09 12:33:53,484 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:53,509 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 29ms
+INFO  2011-07-09 12:33:53,851 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:53,877 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 27ms
+INFO  2011-07-09 12:33:53,885 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:53,906 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 24ms
+INFO  2011-07-09 12:33:56,492 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:56,521 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 29ms
+INFO  2011-07-09 12:33:56,525 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:56,550 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 25ms
+INFO  2011-07-09 12:33:59,482 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:59,516 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 35ms
+INFO  2011-07-09 12:33:59,522 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:59,547 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 26ms
+INFO  2011-07-09 12:33:59,934 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:59,962 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 27ms
+INFO  2011-07-09 12:33:59,967 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:33:59,994 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 29ms
+INFO  2011-07-09 12:34:02,476 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:02,520 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 45ms
+INFO  2011-07-09 12:34:02,525 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:02,547 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 23ms
+INFO  2011-07-09 12:34:03,194 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:03,224 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 31ms
+INFO  2011-07-09 12:34:03,229 2528 RESTWebServices.MarketPriceHistoryService Price history bar request market 99498
+INFO  2011-07-09 12:34:03,232 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:03,247 2528 RESTWebServices.MarketPriceHistoryService _GetPriceBars_. UserName XX189949. Duration 17ms
+INFO  2011-07-09 12:34:05,499 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:05,529 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 30ms
+INFO  2011-07-09 12:34:05,532 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:05,553 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 22ms
+INFO  2011-07-09 12:34:05,890 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:05,917 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 28ms
+INFO  2011-07-09 12:34:05,923 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:05,944 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 22ms
+INFO  2011-07-09 12:34:08,491 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:08,526 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 34ms
+INFO  2011-07-09 12:34:08,530 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:08,551 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 22ms
+INFO  2011-07-09 12:34:11,532 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:11,561 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 28ms
+INFO  2011-07-09 12:34:11,565 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:11,587 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 22ms
+INFO  2011-07-09 12:34:11,999 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:12,026 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 27ms
+INFO  2011-07-09 12:34:12,030 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:12,050 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 20ms
+INFO  2011-07-09 12:34:14,557 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:14,589 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 32ms
+INFO  2011-07-09 12:34:14,593 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:14,614 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 22ms
+INFO  2011-07-09 12:34:17,581 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:17,612 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 31ms
+INFO  2011-07-09 12:34:17,616 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:17,638 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 23ms
+INFO  2011-07-09 12:34:17,962 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:17,991 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 29ms
+INFO  2011-07-09 12:34:17,996 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:18,014 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 19ms
+INFO  2011-07-09 12:34:20,577 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:20,604 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 28ms
+INFO  2011-07-09 12:34:20,609 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:20,629 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 21ms
+INFO  2011-07-09 12:34:23,604 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:23,631 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 28ms
+INFO  2011-07-09 12:34:23,636 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:23,656 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 22ms
+INFO  2011-07-09 12:34:23,965 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:23,994 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 30ms
+INFO  2011-07-09 12:34:23,998 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:24,017 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 20ms
+INFO  2011-07-09 12:34:26,609 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:26,638 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 28ms
+INFO  2011-07-09 12:34:26,643 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:26,664 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 23ms
+INFO  2011-07-09 12:34:29,622 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:29,649 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 28ms
+INFO  2011-07-09 12:34:29,655 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:29,676 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 21ms
+INFO  2011-07-09 12:34:30,036 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:30,061 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 25ms
+INFO  2011-07-09 12:34:30,064 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:30,085 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 21ms
+INFO  2011-07-09 12:34:32,626 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:32,660 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 34ms
+INFO  2011-07-09 12:34:32,665 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:32,684 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 21ms
+INFO  2011-07-09 12:34:35,620 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:35,647 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 27ms
+INFO  2011-07-09 12:34:35,652 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:35,671 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 20ms
+INFO  2011-07-09 12:34:35,997 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:36,022 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 25ms
+INFO  2011-07-09 12:34:36,027 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:36,047 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 22ms
+INFO  2011-07-09 12:34:38,629 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:38,657 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 28ms
+INFO  2011-07-09 12:34:38,662 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:38,681 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 20ms
+INFO  2011-07-09 12:34:41,652 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:41,682 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 29ms
+INFO  2011-07-09 12:34:41,687 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:41,708 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 22ms
+INFO  2011-07-09 12:34:42,056 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:42,083 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 28ms
+INFO  2011-07-09 12:34:42,088 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:42,105 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 19ms
+INFO  2011-07-09 12:34:44,679 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:44,708 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 30ms
+INFO  2011-07-09 12:34:44,713 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:44,732 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 21ms
+INFO  2011-07-09 12:34:47,672 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:47,704 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 32ms
+INFO  2011-07-09 12:34:47,710 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:47,728 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 20ms
+INFO  2011-07-09 12:34:48,076 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:48,101 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 25ms
+INFO  2011-07-09 12:34:48,105 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:48,124 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 19ms
+INFO  2011-07-09 12:34:50,680 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:50,709 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 30ms
+INFO  2011-07-09 12:34:50,714 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:50,735 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 22ms
+INFO  2011-07-09 12:34:53,690 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:53,719 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 29ms
+INFO  2011-07-09 12:34:53,724 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:53,744 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 22ms
+INFO  2011-07-09 12:34:54,106 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:54,134 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 29ms
+INFO  2011-07-09 12:34:54,139 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:54,165 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 27ms
+INFO  2011-07-09 12:34:56,683 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:56,712 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 29ms
+INFO  2011-07-09 12:34:56,717 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:56,738 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 23ms
+INFO  2011-07-09 12:34:59,706 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:59,735 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 30ms
+INFO  2011-07-09 12:34:59,740 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:34:59,760 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 21ms
+INFO  2011-07-09 12:35:00,092 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:35:00,117 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 26ms
+INFO  2011-07-09 12:35:00,122 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:35:00,141 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 21ms
+INFO  2011-07-09 12:35:02,747 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:35:02,776 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 30ms
+INFO  2011-07-09 12:35:02,781 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:35:02,801 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 22ms
+INFO  2011-07-09 12:35:05,770 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:35:05,796 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 27ms
+INFO  2011-07-09 12:35:05,800 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:35:05,822 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 22ms
+INFO  2011-07-09 12:35:06,165 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:35:06,189 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 24ms
+INFO  2011-07-09 12:35:06,193 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:35:06,209 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 17ms
+INFO  2011-07-09 12:35:08,794 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:35:08,821 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 27ms
+INFO  2011-07-09 12:35:08,824 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:35:08,843 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 19ms
+INFO  2011-07-09 12:35:11,835 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:35:11,861 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 26ms
+INFO  2011-07-09 12:35:11,866 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:35:11,889 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 23ms
+INFO  2011-07-09 12:35:12,247 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:35:12,275 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 29ms
+INFO  2011-07-09 12:35:12,281 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:35:12,300 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 20ms
+INFO  2011-07-09 12:35:14,844 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:35:14,873 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 29ms
+INFO  2011-07-09 12:35:14,877 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:35:14,898 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 22ms
+INFO  2011-07-09 12:35:17,839 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:35:17,867 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 29ms
+INFO  2011-07-09 12:35:17,872 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:35:17,894 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 24ms
+INFO  2011-07-09 12:35:18,234 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:35:18,261 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 27ms
+INFO  2011-07-09 12:35:18,265 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:35:18,292 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 27ms
+INFO  2011-07-09 12:35:20,879 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:35:20,909 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 30ms
+INFO  2011-07-09 12:35:20,915 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:35:20,936 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 23ms
+INFO  2011-07-09 12:35:23,887 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:35:23,914 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 27ms
+INFO  2011-07-09 12:35:23,918 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:35:23,939 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 22ms
+INFO  2011-07-09 12:35:24,329 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:35:24,356 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 26ms
+INFO  2011-07-09 12:35:24,360 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:35:24,379 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 20ms
+INFO  2011-07-09 12:35:26,910 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:35:26,940 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 29ms
+INFO  2011-07-09 12:35:26,943 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:35:26,965 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 22ms
+INFO  2011-07-09 12:35:30,506 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:35:30,537 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 31ms
+INFO  2011-07-09 12:35:30,541 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:35:30,559 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 20ms
+INFO  2011-07-09 12:35:30,972 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:35:31,002 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 29ms
+INFO  2011-07-09 12:35:31,006 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:35:31,031 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 26ms
+INFO  2011-07-09 12:35:32,975 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:35:33,002 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 26ms
+INFO  2011-07-09 12:35:33,007 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:35:33,030 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 24ms
+INFO  2011-07-09 12:35:35,977 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:35:36,007 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 31ms
+INFO  2011-07-09 12:35:36,012 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:35:36,041 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 31ms
+INFO  2011-07-09 12:35:36,387 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:35:36,412 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 25ms
+INFO  2011-07-09 12:35:36,416 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:35:36,434 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 18ms
+INFO  2011-07-09 12:35:39,008 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:35:39,040 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 32ms
+INFO  2011-07-09 12:35:39,044 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:35:39,071 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 27ms
+INFO  2011-07-09 12:35:42,018 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:35:42,046 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 29ms
+INFO  2011-07-09 12:35:42,049 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:35:42,071 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 23ms
+INFO  2011-07-09 12:35:42,431 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:35:42,461 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 30ms
+INFO  2011-07-09 12:35:42,465 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:35:42,485 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 21ms
+INFO  2011-07-09 12:35:45,028 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:35:45,058 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 30ms
+INFO  2011-07-09 12:35:45,063 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:35:45,085 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 23ms
+INFO  2011-07-09 12:35:48,064 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:35:48,092 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 28ms
+INFO  2011-07-09 12:35:48,096 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:35:48,115 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 20ms
+INFO  2011-07-09 12:35:48,467 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:35:48,494 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 26ms
+INFO  2011-07-09 12:35:48,498 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:35:48,510 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 14ms
+INFO  2011-07-09 12:35:51,268 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:35:51,367 2528 RESTWebServices.LoginService _LogOffFromQueryString_. UserName xx189949. Duration 102ms
+INFO  2011-07-09 12:37:16,145 2528 RESTWebServices.LoginService Sending login request to Gateway for UserName:xx189949
+INFO  2011-07-09 12:37:16,152 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:37:16,260 2528 RESTWebServices.LoginService _LogOn_. UserName xx189949. Duration 113ms
+INFO  2011-07-09 12:37:16,735 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:37:16,762 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 27ms
+INFO  2011-07-09 12:37:16,766 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:37:16,786 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 21ms
+INFO  2011-07-09 12:37:17,104 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:37:17,134 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 30ms
+INFO  2011-07-09 12:37:17,139 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:37:17,160 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 22ms
+INFO  2011-07-09 12:37:20,159 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:37:20,188 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 29ms
+INFO  2011-07-09 12:37:20,193 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:37:20,214 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 21ms
+INFO  2011-07-09 12:37:20,535 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:37:20,562 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 28ms
+INFO  2011-07-09 12:37:20,567 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:37:20,585 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 19ms
+INFO  2011-07-09 12:37:23,148 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:37:23,172 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 24ms
+INFO  2011-07-09 12:37:23,175 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:37:23,194 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 19ms
+INFO  2011-07-09 12:37:26,175 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:37:26,203 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 29ms
+INFO  2011-07-09 12:37:26,209 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:37:26,230 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 22ms
+INFO  2011-07-09 12:37:26,550 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:37:26,577 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 27ms
+INFO  2011-07-09 12:37:26,584 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:37:26,607 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 23ms
+INFO  2011-07-09 12:37:29,169 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:37:29,198 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 30ms
+INFO  2011-07-09 12:37:29,204 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:37:29,230 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 27ms
+INFO  2011-07-09 12:37:32,160 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:37:32,189 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 29ms
+INFO  2011-07-09 12:37:32,194 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:37:32,214 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 20ms
+INFO  2011-07-09 12:37:32,543 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:37:32,568 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 26ms
+INFO  2011-07-09 12:37:32,574 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:37:32,593 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 20ms
+INFO  2011-07-09 12:37:34,654 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:37:34,680 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 26ms
+INFO  2011-07-09 12:37:34,683 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:37:34,702 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 19ms
+INFO  2011-07-09 12:37:35,033 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:37:35,059 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 26ms
+INFO  2011-07-09 12:37:35,063 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:37:35,405 2528 RESTWebServices.CfdMarkets _ListCfdMarkets_. UserName XX189949. Duration 343ms
+INFO  2011-07-09 12:37:35,740 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:37:35,769 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 30ms
+INFO  2011-07-09 12:37:35,774 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:37:35,795 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 22ms
+INFO  2011-07-09 12:37:38,164 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:37:38,192 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 29ms
+INFO  2011-07-09 12:37:38,196 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:37:38,216 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 20ms
+INFO  2011-07-09 12:37:38,538 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:37:38,565 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 27ms
+INFO  2011-07-09 12:37:38,568 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:37:38,583 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 17ms
+INFO  2011-07-09 12:37:41,174 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:37:41,182 11996 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 2
+INFO  2011-07-09 12:37:41,202 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 28ms
+INFO  2011-07-09 12:37:41,206 2528 RESTWebServices.MarketPriceHistoryService Price history bar request market 99498
+INFO  2011-07-09 12:37:41,209 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 2
+INFO  2011-07-09 12:37:41,213 11996 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 32ms
+INFO  2011-07-09 12:37:41,218 11996 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 2
+INFO  2011-07-09 12:37:41,223 2528 RESTWebServices.MarketPriceHistoryService _GetPriceBars_. UserName XX189949. Duration 16ms
+INFO  2011-07-09 12:37:41,239 11996 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 21ms
+INFO  2011-07-09 12:37:44,176 11996 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:37:44,213 11996 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 35ms
+INFO  2011-07-09 12:37:44,221 11996 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:37:44,244 11996 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 27ms
+INFO  2011-07-09 12:37:44,585 11996 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:37:44,611 11996 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 27ms
+INFO  2011-07-09 12:37:44,617 11996 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:37:44,636 11996 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 21ms
+INFO  2011-07-09 12:37:47,203 11996 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:37:47,232 11996 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 30ms
+INFO  2011-07-09 12:37:47,238 11996 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:37:47,260 11996 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 23ms
+INFO  2011-07-09 12:37:50,184 11996 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:37:50,213 11996 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 29ms
+INFO  2011-07-09 12:37:50,217 11996 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:37:50,242 11996 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 25ms
+INFO  2011-07-09 12:37:50,561 11996 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:37:50,589 11996 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 28ms
+INFO  2011-07-09 12:37:50,594 11996 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:37:50,616 11996 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 24ms
+INFO  2011-07-09 12:37:53,180 11996 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:37:53,213 11996 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 33ms
+INFO  2011-07-09 12:37:53,218 11996 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:37:53,239 11996 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 22ms
+INFO  2011-07-09 12:37:56,216 11996 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:37:56,244 11996 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 28ms
+INFO  2011-07-09 12:37:56,249 11996 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:37:56,270 11996 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 22ms
+INFO  2011-07-09 12:37:56,594 11996 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:37:56,619 11996 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 26ms
+INFO  2011-07-09 12:37:56,623 11996 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:37:56,643 11996 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 21ms
+INFO  2011-07-09 12:37:59,209 11996 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:37:59,239 11996 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 30ms
+INFO  2011-07-09 12:37:59,244 11996 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:37:59,274 11996 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 30ms
+INFO  2011-07-09 12:38:02,220 11996 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:02,252 11996 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 33ms
+INFO  2011-07-09 12:38:02,257 11996 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:02,280 11996 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 24ms
+INFO  2011-07-09 12:38:02,596 11996 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:02,641 11996 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 46ms
+INFO  2011-07-09 12:38:02,648 11996 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:02,654 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 2
+INFO  2011-07-09 12:38:02,668 11996 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 21ms
+INFO  2011-07-09 12:38:02,680 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 26ms
+INFO  2011-07-09 12:38:02,682 2528 RESTWebServices.MarketPriceHistoryService Price history bar request market 99498
+INFO  2011-07-09 12:38:02,685 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:02,698 2528 RESTWebServices.MarketPriceHistoryService _GetPriceBars_. UserName XX189949. Duration 15ms
+INFO  2011-07-09 12:38:05,230 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:05,259 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 29ms
+INFO  2011-07-09 12:38:05,263 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:05,285 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 23ms
+INFO  2011-07-09 12:38:08,237 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:08,265 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 29ms
+INFO  2011-07-09 12:38:08,270 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:08,291 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 23ms
+INFO  2011-07-09 12:38:08,670 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:08,698 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 27ms
+INFO  2011-07-09 12:38:08,702 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:08,722 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 21ms
+INFO  2011-07-09 12:38:11,245 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:11,274 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 28ms
+INFO  2011-07-09 12:38:11,279 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:11,299 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 22ms
+INFO  2011-07-09 12:38:14,238 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:14,282 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 44ms
+INFO  2011-07-09 12:38:14,286 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:14,314 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 27ms
+INFO  2011-07-09 12:38:14,616 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:14,644 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 27ms
+INFO  2011-07-09 12:38:14,649 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:14,666 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 18ms
+INFO  2011-07-09 12:38:17,234 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:17,263 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 29ms
+INFO  2011-07-09 12:38:17,267 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:17,289 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 22ms
+INFO  2011-07-09 12:38:20,243 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:20,273 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 31ms
+INFO  2011-07-09 12:38:20,278 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:20,298 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 21ms
+INFO  2011-07-09 12:38:20,646 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:20,673 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 26ms
+INFO  2011-07-09 12:38:20,683 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:20,704 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 22ms
+INFO  2011-07-09 12:38:23,264 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:23,292 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 28ms
+INFO  2011-07-09 12:38:23,297 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:23,317 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 20ms
+INFO  2011-07-09 12:38:26,274 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:26,304 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 30ms
+INFO  2011-07-09 12:38:26,309 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:26,330 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 23ms
+INFO  2011-07-09 12:38:26,642 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:26,671 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 29ms
+INFO  2011-07-09 12:38:26,677 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:26,696 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 20ms
+INFO  2011-07-09 12:38:29,267 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:29,296 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 30ms
+INFO  2011-07-09 12:38:29,301 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:29,324 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 24ms
+INFO  2011-07-09 12:38:32,284 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:32,312 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 29ms
+INFO  2011-07-09 12:38:32,317 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:32,339 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 22ms
+INFO  2011-07-09 12:38:32,665 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:32,691 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 26ms
+INFO  2011-07-09 12:38:32,695 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:32,713 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 19ms
+INFO  2011-07-09 12:38:35,314 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:35,342 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 28ms
+INFO  2011-07-09 12:38:35,344 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:35,365 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 20ms
+INFO  2011-07-09 12:38:38,324 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:38,351 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 27ms
+INFO  2011-07-09 12:38:38,356 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:38,376 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 22ms
+INFO  2011-07-09 12:38:38,702 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:38,727 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 26ms
+INFO  2011-07-09 12:38:38,731 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:38,750 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 19ms
+INFO  2011-07-09 12:38:41,316 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:41,344 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 28ms
+INFO  2011-07-09 12:38:41,348 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:41,369 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 21ms
+INFO  2011-07-09 12:38:44,359 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:44,388 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 30ms
+INFO  2011-07-09 12:38:44,393 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:44,416 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 24ms
+INFO  2011-07-09 12:38:44,736 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:44,763 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 26ms
+INFO  2011-07-09 12:38:44,767 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:44,785 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 20ms
+INFO  2011-07-09 12:38:47,351 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:47,380 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 29ms
+INFO  2011-07-09 12:38:47,385 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:47,405 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 22ms
+INFO  2011-07-09 12:38:50,344 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:50,373 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 29ms
+INFO  2011-07-09 12:38:50,378 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:50,397 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 21ms
+INFO  2011-07-09 12:38:50,725 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:50,757 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 31ms
+INFO  2011-07-09 12:38:50,761 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:50,780 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 19ms
+INFO  2011-07-09 12:38:53,354 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:53,382 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 29ms
+INFO  2011-07-09 12:38:53,387 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:53,413 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 26ms
+INFO  2011-07-09 12:38:56,362 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:56,389 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 28ms
+INFO  2011-07-09 12:38:56,394 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:56,415 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 22ms
+INFO  2011-07-09 12:38:56,751 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:56,790 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 39ms
+INFO  2011-07-09 12:38:56,795 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:56,816 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 21ms
+INFO  2011-07-09 12:38:59,418 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:59,448 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 31ms
+INFO  2011-07-09 12:38:59,453 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:38:59,474 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 21ms
+INFO  2011-07-09 12:39:02,396 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:02,427 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 31ms
+INFO  2011-07-09 12:39:02,432 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:02,453 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 22ms
+INFO  2011-07-09 12:39:02,462 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:02,486 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 25ms
+INFO  2011-07-09 12:39:02,490 2528 RESTWebServices.MarketPriceHistoryService Price history bar request market 99498
+INFO  2011-07-09 12:39:02,494 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:02,514 2528 RESTWebServices.MarketPriceHistoryService _GetPriceBars_. UserName XX189949. Duration 22ms
+INFO  2011-07-09 12:39:02,780 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:02,806 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 26ms
+INFO  2011-07-09 12:39:02,810 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:02,832 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 23ms
+INFO  2011-07-09 12:39:05,401 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:05,429 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 29ms
+INFO  2011-07-09 12:39:05,433 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:05,453 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 20ms
+INFO  2011-07-09 12:39:08,399 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:08,428 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 30ms
+INFO  2011-07-09 12:39:08,433 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:08,454 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 21ms
+INFO  2011-07-09 12:39:08,766 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:08,792 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 26ms
+INFO  2011-07-09 12:39:08,795 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:08,814 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 20ms
+INFO  2011-07-09 12:39:11,423 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:11,452 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 29ms
+INFO  2011-07-09 12:39:11,456 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:11,477 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 22ms
+INFO  2011-07-09 12:39:14,434 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:14,464 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 31ms
+INFO  2011-07-09 12:39:14,468 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:14,494 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 27ms
+INFO  2011-07-09 12:39:14,821 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:14,852 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 30ms
+INFO  2011-07-09 12:39:14,856 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:14,877 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 22ms
+INFO  2011-07-09 12:39:17,473 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:17,501 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 29ms
+INFO  2011-07-09 12:39:17,507 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:17,529 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 24ms
+INFO  2011-07-09 12:39:20,480 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:20,508 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 27ms
+INFO  2011-07-09 12:39:20,511 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:20,534 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 24ms
+INFO  2011-07-09 12:39:21,108 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:21,135 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 28ms
+INFO  2011-07-09 12:39:21,140 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:21,160 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 21ms
+INFO  2011-07-09 12:39:23,475 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:23,509 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 34ms
+INFO  2011-07-09 12:39:23,514 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:23,538 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 24ms
+INFO  2011-07-09 12:39:26,467 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:26,496 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 29ms
+INFO  2011-07-09 12:39:26,501 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:26,522 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 22ms
+INFO  2011-07-09 12:39:26,861 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:26,886 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 26ms
+INFO  2011-07-09 12:39:26,891 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:26,910 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 20ms
+INFO  2011-07-09 12:39:29,508 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:29,538 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 31ms
+INFO  2011-07-09 12:39:29,543 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:29,565 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 22ms
+INFO  2011-07-09 12:39:32,500 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:32,530 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 30ms
+INFO  2011-07-09 12:39:32,535 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:32,558 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 24ms
+INFO  2011-07-09 12:39:32,875 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:32,902 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 28ms
+INFO  2011-07-09 12:39:32,907 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:32,927 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 20ms
+INFO  2011-07-09 12:39:35,535 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:35,564 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 30ms
+INFO  2011-07-09 12:39:35,569 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:35,591 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 22ms
+INFO  2011-07-09 12:39:38,565 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:38,594 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 30ms
+INFO  2011-07-09 12:39:38,599 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:38,620 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 22ms
+INFO  2011-07-09 12:39:38,967 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:38,994 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 27ms
+INFO  2011-07-09 12:39:38,999 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:39,019 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 21ms
+INFO  2011-07-09 12:39:41,559 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:41,589 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 30ms
+INFO  2011-07-09 12:39:41,594 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:41,614 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 21ms
+INFO  2011-07-09 12:39:44,553 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:44,581 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 29ms
+INFO  2011-07-09 12:39:44,586 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:44,611 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 25ms
+INFO  2011-07-09 12:39:44,928 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:44,953 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 26ms
+INFO  2011-07-09 12:39:44,958 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:44,978 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 21ms
+INFO  2011-07-09 12:39:47,578 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:47,608 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 31ms
+INFO  2011-07-09 12:39:47,613 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:47,640 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 28ms
+INFO  2011-07-09 12:39:50,616 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:50,643 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 28ms
+INFO  2011-07-09 12:39:50,648 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:50,670 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 23ms
+INFO  2011-07-09 12:39:51,017 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:51,046 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 29ms
+INFO  2011-07-09 12:39:51,050 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:51,076 2528 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 27ms
+INFO  2011-07-09 12:39:53,658 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:53,699 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 41ms
+INFO  2011-07-09 12:39:53,703 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:53,723 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 21ms
+INFO  2011-07-09 12:39:56,734 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:56,766 2528 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 32ms
+INFO  2011-07-09 12:39:56,770 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:56,791 2528 RESTWebServices.OrderService _ListOpenPositions_. UserName XX189949. Duration 22ms
+INFO  2011-07-09 12:39:57,107 11996 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 1
+INFO  2011-07-09 12:39:57,122 2528 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 2
+INFO  2011-07-09 12:39:57,131 11996 RESTWebServices.Interceptors.ValidateSessionInteceptor _DoProcessRequest_. UserName XX189949. Duration 26ms
+INFO  2011-07-09 12:39:57,136 11996 ObjectPooling.Pool`1+IItemStore[[ActiveMQPubSub.ActiveMQConnectionPool.IActiveMQPooledConnection, ActiveMQPubSub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] Number of pooled objects in use 2
+INFO  2011-07-09 12:39:57,153 2528 RESTWebServices.LoginService _LogOffFromQueryString_. UserName xx189949. Duration 31ms
+INFO  2011-07-09 12:39:57,157 11996 RESTWebServices.AccountInformationService _GetClientAndTradingAccount_. UserName XX189949. Duration 22ms

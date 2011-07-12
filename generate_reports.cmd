@@ -2,9 +2,12 @@ REM Clean
 del /S /Q reports
 mkdir reports
 
-logparser.exe -i:IISW3C file:queries\summary.sql?InputIISLogs=sample_data\IIS\*.log+OutputReport=reports\summary.html -o:TPL -tpl:queries\summary.tpl
-logparser.exe -i:IISW3C file:queries\summary.sql?InputIISLogs=sample_data\IIS\*.log+OutputReport=reports\summary.gif -o:CHART -chartType:ColumnClustered -config:queries\chart_config.js
+SET InputIISLogs=sample_data\IIS\*.log
+REM SET InputIISLogs=C:\Dev\live_RESTWebService_logs\IIS_logs\*.log
 
-REM tools\log_parser\logparser.exe -i:IISW3C file:queries\summary.sql  -chartType:Bar3D -groupSize:640x480 -view:on
-logparser.exe -i:IISW3C file:queries\StatusCodes.sql?InputIISLogs=sample_data\IIS\*.log+OutputReport=reports\StatusCodes.html -o:TPL -tpl:queries\StatusCodes.tpl
-logparser.exe -i:IISW3C file:queries\StatusCodes.sql?InputIISLogs=sample_data\IIS\*.log+OutputReport=reports\StatusCodes.gif -o:CHART -chartType:ColumnClustered -config:queries\chart_config.js
+
+logparser.exe -i:IISW3C file:queries\summary.sql?InputIISLogs=%InputIISLogs%+OutputReport=reports\summary.html -o:TPL -tpl:queries\summary.tpl
+logparser.exe -i:IISW3C file:queries\summary.sql?InputIISLogs=%InputIISLogs%+OutputReport=reports\summary.gif -o:CHART -chartType:ColumnClustered -config:queries\chart_config.js
+
+logparser.exe -i:IISW3C file:queries\StatusCodes.sql?InputIISLogs=%InputIISLogs%+OutputReport=reports\StatusCodes.html -o:TPL -tpl:queries\StatusCodes.tpl
+logparser.exe -i:IISW3C file:queries\StatusCodes.sql?InputIISLogs=%InputIISLogs%+OutputReport=reports\StatusCodes.gif -o:CHART -chartType:ColumnClustered -config:queries\chart_config.js

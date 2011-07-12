@@ -1,4 +1,10 @@
+##To run
+
+    {path/to/clone/location}:>generate_reports.cmd
+
 ##Dependancies
+This requires Windows (tested on 7, but should work on XP onwards)
+
 You need to install the following to generate reports:
 
 1.  [Log Parser 2.2](http://www.microsoft.com/download/en/details.aspx?id=24659) 

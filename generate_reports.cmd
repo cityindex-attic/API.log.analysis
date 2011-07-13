@@ -2,6 +2,8 @@ REM Clean
 del /S /Q reports
 mkdir reports
 
+copy templates\*.* reports
+
 SET InputIISLogs=sample_data\IIS\*.log
 REM SET InputIISLogs=C:\Dev\live_RESTWebService_logs\IIS_logs\*.log
 

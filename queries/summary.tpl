@@ -11,6 +11,7 @@
 <TR>
  <TH>Service</TH>
  <TH>Avg (ms)</TH> 
+ <TH>St Dev</TH> 
  <TH>Min</TH>
  <TH>Max</TH>
  <TH>Hits</TH>
@@ -21,7 +22,8 @@
 <LPBODY>
 <TR>
  <TD>%Service%</TD>
- <TD>%Avg%</TD> 
+ <TD>%Avg%</TD>
+ <TD>%StDev%</TD> 
  <TD>%Min%</TD>
  <TD>%Max%</TD>
  <TD>%Hits%</TD>

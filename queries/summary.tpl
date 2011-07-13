@@ -2,7 +2,7 @@
 <HTML>
 <LINK REL=StyleSheet HREF="style.css" TYPE="text/css">
 <script src="jquery-1.6.2.min.js"></script>
-<HEAD><TITLE>Summary of .svc calls</TITLE></HEAD>
+<HEAD><TITLE>Summary of .svc requests</TITLE></HEAD>
 
 <BODY>
 <script>
@@ -13,6 +13,7 @@
 <img src="summary.gif">
 
 <TABLE>
+<caption>Summary of .svc requests</caption>
 <THEAD>
 <TR>
  <TH>Service</TH>

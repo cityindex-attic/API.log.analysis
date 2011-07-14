@@ -4,8 +4,8 @@ mkdir reports
 
 xcopy /e templates\*.* reports
 
-REM SET InputIISLogs=sample_data\IIS\*.log
-SET InputIISLogs=C:\Dev\live_RESTWebService_logs\IIS_logs\*.log
+SET InputIISLogs=sample_data\IIS\*.log
+REM SET InputIISLogs=C:\Dev\live_RESTWebService_logs\IIS_logs\*.log
 
 set UriLikeFilter=svc
 logparser.exe -i:IISW3C file:queries\summary.sql?UriLikeFilter=svc+InputIISLogs=%InputIISLogs%+OutputReport=reports\svc-summary.html -o:TPL -tpl:queries\summary.tpl
@@ -36,6 +36,7 @@ GOTO :end
 	logparser.exe -i:IISW3C file:queries\summary_by_hour.sql?UriLikeFilter=%1+InputIISLogs=%InputIISLogs%+OutputReport=reports\%1-summary_by_hour.html -o:TPL -tpl:queries\summary_by_hour.tpl
 	logparser.exe -i:IISW3C file:queries\summary_by_hour_hits.sql?UriLikeFilter=%1+InputIISLogs=%InputIISLogs%+OutputReport=reports\%1-summary_by_hour_hits.gif -o:CHART -chartType:ColumnClustered -config:queries\chart_config.js -groupSize:2000x768
 	logparser.exe -i:IISW3C file:queries\summary_by_hour_avg.sql?UriLikeFilter=%1+InputIISLogs=%InputIISLogs%+OutputReport=reports\%1-summary_by_hour_avg.gif -o:CHART -chartType:ColumnClustered -config:queries\chart_config.js -groupSize:2000x768
+	logparser.exe -i:IISW3C file:queries\summary_by_hour_avg_scatter.sql?UriLikeFilter=%1+InputIISLogs=%InputIISLogs%+OutputReport=reports\%1-summary_by_hour_avg_scatter.gif -o:CHART -chartType:ScatterMarkers -config:queries\scatter_chart_config.js -groupSize:2000x768
 
 	GOTO :eof
 

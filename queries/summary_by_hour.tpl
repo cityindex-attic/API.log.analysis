@@ -29,7 +29,10 @@
               </a>
               <a class="chart" href="%UriLikeFilter%-summary_by_hour_avg.gif">
                 <img src="%UriLikeFilter%-summary_by_hour_avg.gif" style="height: 200px;"/>
-              </a> 
+              </a>
+			   <a class="chart" href="%UriLikeFilter%-summary_by_hour_avg_scatter.gif">
+                <img src="%UriLikeFilter%-summary_by_hour_avg_scatter.gif" style="height: 200px;"/>
+              </a>
               Click to zoom
           </div>
           

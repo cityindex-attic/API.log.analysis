@@ -20,21 +20,25 @@
               });
             });
           </script>
-
+        
+          <h1>%UriLikeFilter%</h1>
+        
           <div id="graph">
-              
-              <a class="chart" href="%UriLikeFilter%-summary.gif">
-                <img src="%UriLikeFilter%-summary.gif" style="height: 400px;"/>
+              <a class="chart" href="%UriLikeFilter%-summary_by_hour_hits.gif">
+                <img src="%UriLikeFilter%-summary_by_hour_hits.gif" style="height: 200px;"/>
               </a>
+              <a class="chart" href="%UriLikeFilter%-summary_by_hour_avg.gif">
+                <img src="%UriLikeFilter%-summary_by_hour_avg.gif" style="height: 200px;"/>
+              </a> 
               Click to zoom
           </div>
           
           <div id="data">
           <TABLE width="100%">
-            <caption>Summary of .svc requests</caption>
+            <caption>%UriLikeFilter% Summary by hour</caption>
             <THEAD>
               <TR>
-                <TH>Service</TH>
+                <TH>Hour</TH>
                 <TH>Avg (ms)</TH>
                 <TH>St Dev</TH>
                 <TH>Min</TH>
@@ -46,12 +50,12 @@
 </LPHEADER>
 <LPBODY>
             <TR class="datarow">
-              <TD>%Service%</TD>
-              <TD>%Avg%</TD>
-              <TD>%StDev%</TD>
-              <TD>%Min%</TD>
-              <TD>%Max%</TD>
-              <TD>%Hits%</TD>
+              <TD>%Hour%</TD>
+              <TD>%Avg by hour%</TD>
+              <TD>%StDev by hour%</TD>
+              <TD>%Min by hour%</TD>
+              <TD>%Max by hour%</TD>
+              <TD>%Hits by hour%</TD>
             </TR>
 </LPBODY>
 <LPFOOTER>

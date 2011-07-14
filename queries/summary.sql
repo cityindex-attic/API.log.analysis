@@ -7,6 +7,6 @@ SELECT TOP 50
    ,SQRROOT ( SUB ( DIV ( MUL(1.0, SUM(SQR(time-taken)) ), Hits ) , SQR([Avg]) ) ) AS [StDev]
 FROM %InputIISLogs%
 TO %OutputReport%
-WHERE cs-uri-stem LIKE '%.svc%'
+WHERE cs-uri-stem LIKE '%%%UriLikeFilter%%%'
 GROUP BY Service
 ORDER BY Hits DESC

@@ -14,16 +14,18 @@
       <script>
         $(document).ready(function(){
         $('TR.datarow:odd').addClass('odd');
-        $("a#chart").fancybox({
-        'hideOnContentClick': true
-        });
+         $("a.chart").fancybox({
+                'hideOnContentClick': true,
+				        'autoScale': false,
+				        'scrolling': 'yes'
+              });
         });
       </script>
 
       <div id="graph">
 
-        <a id="chart" href="StatusCodes.gif">
-          <img src="StatusCodes.gif"/>
+        <a class="chart" href="%UriLikeFilter%-StatusCodes.gif">
+          <img src="%UriLikeFilter%-StatusCodes.gif"/>
         </a>
         Click to zoom
       </div>
@@ -41,7 +43,7 @@
 <LPBODY>
           <TR class="datarow">
             <TD>%Status%</TD>
-            <TD>%Total%</TD>
+            <TD>%Total by status code%</TD>
           </TR>
 </LPBODY>
 <LPFOOTER>

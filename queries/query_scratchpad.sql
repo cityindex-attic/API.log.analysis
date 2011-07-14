@@ -32,3 +32,8 @@ FROM C:\Dev\live_RESTWebService_logs\IIS_logs\u_ex*.log
 WHERE cs-uri-stem <> '/'
 GROUP BY [client]
 ORDER BY [Hits] DESC
+
+---total requests
+SELECT COUNT(*)
+FROM C:\Dev\live_RESTWebService_logs\IIS_logs\u_ex*.log
+WHERE cs-uri-stem <> '/'

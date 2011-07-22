@@ -35,7 +35,7 @@
             <caption>%UriLikeFilter% Summary by client</caption>
             <THEAD>
               <TR>
-                <TH>Minute</TH>
+                <TH>Hour</TH>
 				<TH>Client IP</TH>
                 <TH>Avg (ms)</TH>
                 <TH>St Dev</TH>
@@ -48,13 +48,13 @@
 </LPHEADER>
 <LPBODY>
             <TR class="datarow">
-              <TD>%Minute%</TD>
+              <TD>%Hour%</TD>
 			  <TD><a href="http://www.ipchecking.com/?ip=%Client%&check=Lookup" target=_"blank">%Client%</a></TD>
-              <TD>%Avg by minute%</TD>
-              <TD>%StDev by minute%</TD>
-              <TD>%Min by minute%</TD>
-              <TD>%Max by minute%</TD>
-              <TD>%Hits by minute%</TD>
+              <TD>%Avg by Hour%</TD>
+              <TD>%StDev by Hour%</TD>
+              <TD>%Min by Hour%</TD>
+              <TD>%Max by Hour%</TD>
+              <TD>%Hits by Hour%</TD>
             </TR>
 </LPBODY>
 <LPFOOTER>

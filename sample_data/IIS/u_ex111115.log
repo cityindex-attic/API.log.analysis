@@ -1,0 +1,11 @@
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2011-11-15 11:05:41
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
+2011-11-15 11:05:41 172.16.68.7 GET / - 444 - 172.16.68.253 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.13)+Gecko/20101203+Firefox/3.6.13+MS-OC+4.0.7341.0508 403 14 0 1312
+2011-11-15 11:05:41 172.16.68.7 GET /favicon.ico - 444 - 172.16.68.253 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.13)+Gecko/20101203+Firefox/3.6.13+MS-OC+4.0.7341.0508 404 0 2 17
+2011-11-15 11:05:41 172.16.68.7 GET /favicon.ico - 444 - 172.16.68.253 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.13)+Gecko/20101203+Firefox/3.6.13+MS-OC+4.0.7341.0508 404 0 2 100
+2011-11-15 11:05:44 172.16.68.7 GET /favicon.ico - 444 - 172.16.68.253 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.13)+Gecko/20101203+Firefox/3.6.13+MS-OC+4.0.7341.0508 404 0 2 100
+2011-11-15 11:07:06 172.16.68.7 GET / - 444 - 172.16.68.253 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.13)+Gecko/20101203+Firefox/3.6.13+MS-OC+4.0.7341.0508 403 14 0 100
+2011-11-15 11:07:07 172.16.68.7 GET / - 444 - 172.16.68.253 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.13)+Gecko/20101203+Firefox/3.6.13+MS-OC+4.0.7341.0508 403 14 0 99
+2011-11-15 11:07:07 172.16.68.7 GET / - 444 - 172.16.68.253 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.13)+Gecko/20101203+Firefox/3.6.13+MS-OC+4.0.7341.0508 403 14 0 100

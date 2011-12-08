@@ -1,0 +1,449 @@
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2011-10-29 00:01:57
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
+2011-10-29 00:01:57 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 1179
+2011-10-29 00:01:57 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 203
+2011-10-29 00:01:57 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 111
+2011-10-29 00:14:24 192.168.164.50 GET /tp/fx/FlexShell.Web-0.1212.swf - 444 - 192.168.179.230 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 3941
+2011-10-29 00:25:36 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 1221
+2011-10-29 00:25:36 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 199
+2011-10-29 00:25:36 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 114
+2011-10-29 00:35:28 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 105
+2011-10-29 00:35:28 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 115
+2011-10-29 00:35:30 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 111
+2011-10-29 00:39:05 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 301 0 0 9
+2011-10-29 00:39:05 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 200 0 0 120
+2011-10-29 00:39:05 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 200 0 0 115
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2011-10-29 01:09:30
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
+2011-10-29 01:09:30 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 301 0 0 1152
+2011-10-29 01:09:30 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 200 0 0 197
+2011-10-29 01:09:30 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 200 0 0 114
+2011-10-29 01:22:21 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 301 0 0 38
+2011-10-29 01:22:21 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 200 0 0 115
+2011-10-29 01:22:21 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 200 0 0 110
+2011-10-29 01:25:16 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 105
+2011-10-29 01:25:16 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 115
+2011-10-29 01:25:16 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 114
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2011-10-29 02:25:42
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
+2011-10-29 02:25:42 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 1163
+2011-10-29 02:25:42 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 194
+2011-10-29 02:25:42 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 110
+2011-10-29 02:27:37 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 69
+2011-10-29 02:27:37 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 115
+2011-10-29 02:27:37 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 109
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2011-10-29 02:47:12
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
+2011-10-29 02:47:12 192.168.164.50 GET /scripts/setup.php - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+6.0;+MSIE+5.5;+Windows+NT+5.1)+Opera+7.01+[en] 404 0 2 160
+2011-10-29 02:47:12 192.168.164.50 GET /mysql/scripts/setup.php - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+6.0;+MSIE+5.5;+Windows+NT+5.1)+Opera+7.01+[en] 404 0 2 86
+2011-10-29 02:47:12 192.168.164.50 GET /phpMyAdmin/scripts/setup.php - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+6.0;+MSIE+5.5;+Windows+NT+5.1)+Opera+7.01+[en] 404 0 2 120
+2011-10-29 02:47:12 192.168.164.50 GET /phpmyadmin/scripts/setup.php - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+6.0;+MSIE+5.5;+Windows+NT+5.1)+Opera+7.01+[en] 404 0 2 169
+2011-10-29 02:47:12 192.168.164.50 GET /pma/scripts/setup.php - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+6.0;+MSIE+5.5;+Windows+NT+5.1)+Opera+7.01+[en] 404 0 2 76
+2011-10-29 02:47:12 192.168.164.50 POST /scripts/setup.php - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+6.0;+MSIE+5.5;+Windows+NT+5.1)+Opera+7.01+[en] 404 0 2 0
+2011-10-29 02:47:12 192.168.164.50 POST /pma/scripts/setup.php - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+6.0;+MSIE+5.5;+Windows+NT+5.1)+Opera+7.01+[en] 404 0 2 0
+2011-10-29 02:47:12 192.168.164.50 POST /phpmyadmin/scripts/setup.php - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+6.0;+MSIE+5.5;+Windows+NT+5.1)+Opera+7.01+[en] 404 0 2 0
+2011-10-29 02:47:12 192.168.164.50 POST /mysql/scripts/setup.php - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+6.0;+MSIE+5.5;+Windows+NT+5.1)+Opera+7.01+[en] 404 0 2 0
+2011-10-29 02:47:12 192.168.164.50 POST /phpMyAdmin/scripts/setup.php - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+6.0;+MSIE+5.5;+Windows+NT+5.1)+Opera+7.01+[en] 404 0 2 0
+2011-10-29 02:50:33 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 1215
+2011-10-29 02:50:33 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 194
+2011-10-29 02:50:33 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 110
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2011-10-29 03:10:30
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
+2011-10-29 03:10:30 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 106
+2011-10-29 03:10:30 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 114
+2011-10-29 03:10:31 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 112
+2011-10-29 03:23:25 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 301 0 0 12
+2011-10-29 03:23:25 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 200 0 0 113
+2011-10-29 03:23:25 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 200 0 0 112
+2011-10-29 03:35:13 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 104
+2011-10-29 03:35:13 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 116
+2011-10-29 03:35:13 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 113
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2011-10-29 03:50:25
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
+2011-10-29 03:50:25 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 104
+2011-10-29 03:50:25 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 119
+2011-10-29 03:50:25 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 112
+2011-10-29 04:05:38 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 301 0 0 37
+2011-10-29 04:05:38 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 200 0 0 118
+2011-10-29 04:05:38 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 200 0 0 112
+2011-10-29 04:12:18 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 103
+2011-10-29 04:12:18 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 114
+2011-10-29 04:12:18 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 111
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2011-10-29 04:37:13
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
+2011-10-29 04:37:13 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 1135
+2011-10-29 04:37:13 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 198
+2011-10-29 04:37:13 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 114
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2011-10-29 05:00:16
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
+2011-10-29 05:00:16 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 1189
+2011-10-29 05:00:16 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 192
+2011-10-29 05:00:17 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 113
+2011-10-29 05:05:50 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 301 0 0 39
+2011-10-29 05:05:50 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 200 0 0 116
+2011-10-29 05:05:50 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 200 0 0 112
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2011-10-29 05:25:30
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
+2011-10-29 05:25:30 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 104
+2011-10-29 05:25:30 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 114
+2011-10-29 05:25:30 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 112
+2011-10-29 05:39:51 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 301 0 0 9
+2011-10-29 05:39:51 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 200 0 0 114
+2011-10-29 05:39:51 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 200 0 0 111
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2011-10-29 06:10:08
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
+2011-10-29 06:10:08 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 301 0 0 1095
+2011-10-29 06:10:08 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 200 0 0 189
+2011-10-29 06:10:08 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 200 0 0 115
+2011-10-29 06:11:34 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 50
+2011-10-29 06:11:34 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 115
+2011-10-29 06:11:34 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 112
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2011-10-29 06:36:50
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
+2011-10-29 06:36:50 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 1147
+2011-10-29 06:36:50 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 196
+2011-10-29 06:36:50 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 113
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2011-10-29 07:10:11
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
+2011-10-29 07:10:11 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 301 0 0 1112
+2011-10-29 07:10:11 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 200 0 0 200
+2011-10-29 07:10:11 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 200 0 0 115
+2011-10-29 07:10:37 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 67
+2011-10-29 07:10:37 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 115
+2011-10-29 07:10:37 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 109
+2011-10-29 07:18:25 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 301 0 0 105
+2011-10-29 07:18:25 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 200 0 0 114
+2011-10-29 07:18:25 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 200 0 0 110
+2011-10-29 07:25:23 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 105
+2011-10-29 07:25:23 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 115
+2011-10-29 07:25:23 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 113
+2011-10-29 07:27:23 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 34
+2011-10-29 07:27:23 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 114
+2011-10-29 07:27:23 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 113
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2011-10-29 08:02:26
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
+2011-10-29 08:02:26 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 1255
+2011-10-29 08:02:26 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 196
+2011-10-29 08:02:26 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 115
+2011-10-29 08:10:53 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 84
+2011-10-29 08:10:53 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 116
+2011-10-29 08:10:53 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 110
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2011-10-29 08:51:48
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
+2011-10-29 08:51:48 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 1188
+2011-10-29 08:51:48 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 196
+2011-10-29 08:51:48 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 117
+2011-10-29 09:01:40 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 13
+2011-10-29 09:01:40 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 116
+2011-10-29 09:01:40 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 109
+2011-10-29 09:10:28 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 301 0 0 11
+2011-10-29 09:10:28 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 200 0 0 115
+2011-10-29 09:10:28 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 200 0 0 111
+2011-10-29 09:11:20 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 26
+2011-10-29 09:11:20 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 113
+2011-10-29 09:11:20 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 111
+2011-10-29 09:25:29 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 106
+2011-10-29 09:25:29 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 117
+2011-10-29 09:25:29 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 110
+2011-10-29 09:36:16 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 94
+2011-10-29 09:36:16 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 115
+2011-10-29 09:36:16 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 115
+2011-10-29 09:50:57 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 95
+2011-10-29 09:50:57 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 116
+2011-10-29 09:50:57 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 112
+2011-10-29 10:01:36 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 38
+2011-10-29 10:01:36 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 116
+2011-10-29 10:01:36 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 112
+2011-10-29 10:11:27 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 62
+2011-10-29 10:11:27 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 115
+2011-10-29 10:11:27 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 111
+2011-10-29 10:25:48 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 105
+2011-10-29 10:25:48 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 115
+2011-10-29 10:25:49 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 110
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2011-10-29 10:51:01
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
+2011-10-29 10:51:01 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 1165
+2011-10-29 10:51:01 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 199
+2011-10-29 10:51:01 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 114
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2011-10-29 11:10:36
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
+2011-10-29 11:10:36 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 301 0 0 12
+2011-10-29 11:10:36 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 200 0 0 40
+2011-10-29 11:10:36 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 200 0 0 107
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2011-10-29 11:34:32
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
+2011-10-29 11:34:32 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 301 0 0 1146
+2011-10-29 11:34:32 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 200 0 0 198
+2011-10-29 11:34:32 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 200 0 0 113
+2011-10-29 11:36:25 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 41
+2011-10-29 11:36:25 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 116
+2011-10-29 11:36:25 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 113
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2011-10-29 12:10:24
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
+2011-10-29 12:10:24 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 1221
+2011-10-29 12:10:24 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 198
+2011-10-29 12:10:24 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 113
+2011-10-29 12:19:09 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 301 0 0 104
+2011-10-29 12:19:09 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 200 0 0 115
+2011-10-29 12:19:09 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 200 0 0 110
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2011-10-29 12:35:29
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
+2011-10-29 12:35:29 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 108
+2011-10-29 12:35:29 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 116
+2011-10-29 12:35:29 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 115
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2011-10-29 12:51:43
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
+2011-10-29 12:51:43 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 48
+2011-10-29 12:51:43 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 115
+2011-10-29 12:51:43 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 111
+2011-10-29 13:01:45 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 105
+2011-10-29 13:01:45 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 116
+2011-10-29 13:01:45 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 111
+2011-10-29 13:10:43 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 301 0 0 8
+2011-10-29 13:10:43 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 200 0 0 115
+2011-10-29 13:10:43 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 200 0 0 111
+2011-10-29 13:25:28 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 105
+2011-10-29 13:25:28 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 115
+2011-10-29 13:25:28 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 112
+2011-10-29 13:26:10 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 44
+2011-10-29 13:26:10 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 103
+2011-10-29 13:26:10 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 111
+2011-10-29 13:35:56 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 105
+2011-10-29 13:35:56 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 115
+2011-10-29 13:35:56 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 111
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2011-10-29 14:01:33
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 9499
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 662
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 125
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 38
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 130
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 115
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 301 0 0 106
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 200 0 0 120
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 200 0 0 112
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2011-10-29 14:36:28
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 41
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 112
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 113
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2011-10-29 15:11:16
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 301 0 0 1261
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 200 0 0 202
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 200 0 0 117
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2011-10-29 15:36:06
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 1448
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 214
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 112
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 106
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 119
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 114
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 105
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 118
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 113
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2011-10-29 16:11:17
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 301 0 0 1265
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 200 0 0 202
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 200 0 0 112
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 301 0 0 39
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 200 0 0 110
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 200 0 0 111
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 108
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 116
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 109
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2011-10-29 16:51:17
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 1495
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 203
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 115
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2011-10-29 17:11:19
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 301 0 0 11
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 200 0 0 117
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 200 0 0 109
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 24
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 66
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 107
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 301 0 0 15
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 200 0 0 110
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 200 0 0 108
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2011-10-29 18:00:52
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 1217
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 198
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 110
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 23
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 119
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 106
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 301 0 0 41
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 200 0 0 117
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 200 0 0 106
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 106
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 116
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 106
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 57
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 115
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 106
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2011-10-29 19:01:56
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 1157
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 195
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 109
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 301 0 0 11
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 200 0 0 116
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 200 0 0 105
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2011-10-29 19:27:09
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 38
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 112
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 104
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 301 0 0 12
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 200 0 0 115
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 200 0 0 109
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2011-10-29 20:00:57
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 1260
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 203
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 110
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 45
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 121
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 107
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 301 0 0 105
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 200 0 0 118
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 200 0 0 107
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 98
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 118
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 107
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2011-10-29 21:00:59
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 1363
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 206
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 109
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 107
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 118
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 108
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 55
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 84
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 107
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 106
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 117
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 106
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 105
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 116
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 106
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 25
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 120
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 106
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2011-10-29 22:00:37
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 1305
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 209
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 188
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 61
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 124
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 114
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 301 0 0 22
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 200 0 0 124
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 200 0 0 116
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2011-10-29 22:36:40
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 301 0 0 4191
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 200 0 0 260
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+GomezAgent+3.0) 200 0 0 118
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2011-10-29 23:00:55
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 997
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 182
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 109
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 105
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 118
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 114
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 104
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 113
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 106
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2011-10-29 23:28:29
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 47
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 119
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 113
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 24
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 115
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 112
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 301 0 0 29
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 83
+2011-10-29 23:59:59 192.168.164.50 GET /tradingapi/ajax.js - 444 - 192.168.179.230 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US;+rv:1.9.1.6;+GomezAgent+3.0)+Gecko/20091201+Firefox/3.5.6 200 0 0 107

@@ -36,6 +36,7 @@
               <TR>
                 <TH>Service</TH>
                 <TH>Avg (ms)</TH>
+				<TH>Cumulative time taken (ms)</TH>
                 <TH>St Dev</TH>
                 <TH>Min</TH>
                 <TH>Max</TH>
@@ -48,6 +49,7 @@
             <TR class="datarow">
               <TD>%Service%</TD>
               <TD>%Avg%</TD>
+			  <TD>%CulmulativeTimeTaken%</TD>
               <TD>%StDev%</TD>
               <TD>%Min%</TD>
               <TD>%Max%</TD>

@@ -1,7 +1,7 @@
 SELECT TOP 50 
 	TO_LOWERCASE(SUBSTR(cs-uri-stem, 0, LAST_INDEX_OF(cs-uri-stem,'.svc'))) AS Service
    ,COUNT(*) AS Hits
-   ,DIV ( MUL(1.0, SUM(time-taken)), Hits ) AS [Avg] --must be calculated this way to enable StDev calc
+   ,SUM(time-taken) As [CulmulativeTimeTaken]
 FROM %InputIISLogs%
 TO %OutputReport%
 WHERE cs-uri-stem LIKE '%%%UriLikeFilter%%%'

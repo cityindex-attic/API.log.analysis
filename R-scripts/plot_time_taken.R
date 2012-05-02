@@ -1,9 +1,11 @@
+library("xts")
+
 # metadata
 nodes <- list("EU-west (Ireland)"="46.137.187.155","US-west (Oregon)"="50.112.111.248","US-east(Virginia)"="23.21.131.181","US-west(North California)"="184.169.142.250","AP-south(Singapore)"="175.41.134.210","AP-North(Tokyo)"="54.248.116.221","S-America (Sao Paulo)"="177.71.182.250")
 node_ips <- unlist(nodes, use.names = FALSE)
 colours <- c("#490A3D","#BD1550","#E97F02","#F8CA00","#8A9B0F")   #From http://www.colourlovers.com/palette/848743/
 
-logdata = read.table('sample_data/IIS/live_ex120408.log', fill=TRUE)
+logdata = read.table('/home/mrdavidlaing/Downloads/ciapi_logs_for_session_speedup.log', fill=TRUE)
 
 colnames(logdata)=c('date','time','s-sitename','s-computername','s-ip','cs-method','cs-uri-stem','cs-uri-query','s-port','cs-username','c-ip','cs-version','cs(User-Agent)','cs(Cookie)','cs(Referer)','cs-host','sc-status','sc-substatus','sc-win32-status','sc-bytes','cs-bytes','time-taken')
 logdata$datetime <- strptime(paste(logdata$date,logdata$time), "%Y-%m-%d %H:%M:%S")

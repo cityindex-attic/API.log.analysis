@@ -1,10 +1,10 @@
 library("ggplot2")
-
-files <- list.files(path="/Dev/API.log.analysis/data/2012-04/rdb-srv-webl24"
-                                  ,pattern="u_ex120409.log"
+data_dir <- "/home/mrdavidlaing/2012-04"
+files <- list.files(path=sprintf("%s/rdb-srv-webl24",data_dir)
+                                  ,pattern=".log"
                                   ,full.names=TRUE)
-files <- append(files, list.files(path="/Dev/API.log.analysis/data/2012-04/rdb-srv-webl25"
-                                  ,pattern="u_ex120409.log"
+files <- append(files, list.files(path=sprintf("%s/rdb-srv-webl25",data_dir)
+                                  ,pattern=".log"
                                   ,full.names=TRUE))
 
 read.tables <- function(file.names, ...) {
@@ -18,7 +18,7 @@ colnames(logdata)=c('source_filename', 'date','time','s-sitename','scomputername
 logdata$datetime <- strptime(paste(logdata$date,logdata$time), "%Y-%m-%d %H:%M:%S")
 
 d <- ggplot(logdata, aes(x=datetime, y=timetaken))
-d <- d + geom_hex(bins=50)
+d <- d + geom_hex(bins=100)
 d <- d + ylim(0,1000)
 d <- d + scale_fill_gradient(low="white", high="red")
 d <- d + facet_grid(scomputername ~ .)

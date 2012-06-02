@@ -1,0 +1,8 @@
+# Install s3 cmd tools
+sudo apt-get install s3cmd
+
+# Configure s3cmd
+s3cmd --configure
+
+#Sync over a set of logs
+s3cmd sync s3://cityindex.appmetrics/CiapiLatencyCollector/2012-05 /mnt/data/???

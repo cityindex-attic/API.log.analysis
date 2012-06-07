@@ -1,32 +1,31 @@
 library("ggplot2")
-data_dir <- "/mnt/cityindex.appmetrics/2012-05"
-files <- list.files(path=sprintf("%s/23",data_dir)
-                                  ,pattern=".txt"
-                                  ,full.names=TRUE)
-#files <- append(files, list.files(path=sprintf("%s/rdb-srv-webl25",data_dir)
-#                                  ,pattern=".log"
-#                                  ,full.names=TRUE))
+library("RCurl")
 
-read.tables <- function(file.names, ...) {
-  require(plyr)
-  ldply(file.names, function(fn)
-    data.frame(Filename=fn, read.table(fn, ...)))
-}
+metrics_credentials <- Sys.getenv(c("APPMETRICS_CREDENTIALS"))
 
-logdata <- read.tables(files, header=F, sep="\t", fill=TRUE)
-colnames(logdata)=c('source_filename', 'timestamp','key','value')
+data_url <- URLencode("http://metrics.labs.cityindex.com/GetRecords.ashx?Application=CIAPILatencyCollector&StartTime=2012-06-07 00:00:00")
+webpage <- getURL(data_url,userpwd=metrics_credentials, httpauth = 1L)
+logdata <- read.table(tc <- textConnection(webpage), header=F, sep="\t", fill=TRUE, as.is=c(1:4)); 
+close(tc)
+
+colnames(logdata)=c('session', 'timestamp','key','value')
 logdata$datetime <- strptime(logdata$timestamp, "%Y-%m-%d %H:%M:%S")
 rpc <- logdata[logdata$"key" %in% c("Latency LogIn", 
                                     "Latency ListCfdMarkets", 
                                     "Latency GetClientAndTradingAccount", 
-                                    "Latency DefaultPage",
-                                    "Latency GetMarketInformation",
-                                    "Latency GetPriceBars"), ]
+                                    #"Latency DefaultPage",
+                                    #"Latency GetMarketInformation",
+                                    #"Latency GetPriceBars",
+                                    "Latency PriceStream"), ]
 
 d <- ggplot(rpc, aes(x=datetime, y=as.double(value)))
-#d <- d + geom_hex(bins=500)
-d <- d + geom_point()
-#d <- d + ylim(0,3000)
-#d <- d + scale_fill_gradient(low="white", high="red")
+d <- d + scale_y_log10()
+#d <- d + ylim(-10,100)
+#d <- d + geom_point()
+#d <- d + stat_smooth(se = FALSE) 
+#d <- d + stat_quantile() 
+d <- d + geom_hex(bins=100)
+d <- d + scale_fill_gradient(low="orange", high="red")
+
 d <- d + facet_grid(key ~ .)
 print(d)

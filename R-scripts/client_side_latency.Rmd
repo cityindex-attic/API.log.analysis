@@ -5,7 +5,7 @@ library("ggplot2")
 library("RCurl")
 library("plyr")
 library("scales")
-metrics_credentials <- "CC735158:{f72d338b-62fb-4c64-a1e2-ee6988ec897e}" #Sys.getenv(c("APPMETRICS_CREDENTIALS"))
+metrics_credentials <- Sys.getenv(c("APPMETRICS_CREDENTIALS"))
 startTime <- "2012-07-03 13:00:00"
 endTime <- "2012-07-03 14:00:00"
 data_url <- URLencode(paste("http://metrics.labs.cityindex.com/GetRecords.ashx?Application=CIAPILatencyCollector&StartTime=",startTime,'&EndTime=',endTime, sep = ''))

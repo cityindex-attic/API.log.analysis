@@ -12,8 +12,7 @@ colnames(logdata)=c('date','time','s-sitename','s-computername','s-ip','cs-metho
 requests<- subset(logdata, select=c("c-ip", "date","time", "cs-uri-stem", "cs-uri-query", "sc-bytes", "time-taken"), subset=(logdata$"c-ip" %in% node_ips))
 requests$datetime <- strptime(paste(str_sub(requests$date, start= -10),requests$time), "%Y-%m-%d %H:%M:%S", tz="GMT")
 
-requests_session <- subset(requests, grepl("session$", requests$"cs-uri-stem"))
-requests_trade <- subset(requests, grepl("|newtradeorder$", requests$"cs-uri-stem"))
+requests_subset <- subset(requests, grepl("session$|newtradeorder$", requests$"cs-uri-stem"))
 
 #requests$key <- sub('/TradingApi/session', 'CIAPI.LogIn',requests$"cs-uri-stem", fixed = TRUE)
 #requests$key <- sub('/TradingApi/order/newtradeorder', 'CIAPI.Trade',requests$key, fixed = TRUE)
@@ -23,6 +22,12 @@ requests_trade <- subset(requests, grepl("|newtradeorder$", requests$"cs-uri-ste
 #hist(requests$"time-taken", br=300000, xlim = c(0, 500),  
 #     main="Login latency histogram",  
 #     xlab="Latency")
+h <- ggplot(requests_subset, 
+            aes(requests_subset$"time-taken", fill=requests_subset$"cs-uri-stem"))
+h <- h + scale_x_continuous(name="Latency (ms)", breaks=seq(0,300,16), limits=c(0,300))
+h <- h + geom_density(alpha=0.5)
+#h <- h + geom_histogram(binwidth=5, position="dodge")
+print(h)
 
 qplot(requests_session$"time-taken", binwidth=5, xlim = c(10, 300),
       main="Login latency histogram",  

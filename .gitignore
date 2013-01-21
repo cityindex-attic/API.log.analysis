@@ -29,3 +29,7 @@ _ReSharper*/
 [Tt]est[Rr]esult*
 reports/
 .Rproj.user
+data/
+data_ppe/
+.RData
+.Rhistory

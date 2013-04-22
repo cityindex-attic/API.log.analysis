@@ -9,8 +9,8 @@ metrics_credentials <- Sys.getenv(c("APPMETRICS_CREDENTIALS"))
 ```
 
 ```{r vars, echo=FALSE}
-startTime <- "2013-01-14 00:00:00"
-endTime <- "2013-01-21 12:00:00"
+startTime <- "2013-04-15 00:00:00"
+endTime <- "2013-04-22 12:00:00"
 ```
 
 ```{r fetchData, echo=FALSE}
@@ -83,7 +83,7 @@ rpc2 <- rpc2[rpc2$nodeName %in% c("AWS-EU-WEST-1B-79.125.25.36"),]
 
 d <- ggplot(rpc2, aes(x=datetime, y=as.double(value)))
 d <- d + ylab("Latency in seconds") + xlab("Measurement time (UTC)")
-d <- d + scale_y_log10(breaks=c(0.1,0.3,0.6), limits=c(0.05, 0.7))
+d <- d + scale_y_log10(breaks=c(0.1,0.3,0.6), limits=c(0.05, 1.5))
 d <- d + geom_hex()
 d <- d + stat_quantile( quantiles = c(0.5, 0.98) ) 
 d <- d + geom_rug(aes(x=NULL, y=as.double(value)), col=rgb(.5,0,0, alpha=.05))
@@ -103,7 +103,7 @@ Selective latencies in depth
 1. Trade - A complex "change server state" query
 
 ```{r service_latency_plot_in_depth, fig.width=10, fig.height = 7, tidy=FALSE, warning=FALSE}
-rpc3 <- logdata2[logdata2$"key" %in% c("Latency CIAPI.LogIn","Latency CIAPI.LogOut","Latency CIAPI.Trade"), ]
+rpc3 <- logdata2[logdata2$"key" %in% c("Latency CIAPI.ListTradeHistory","Latency CIAPI.GetMarketInformation","Latency CIAPI.ListSpreadMarkets"), ]
 
 rpc3$datetime <- strptime(rpc3$timestamp, "%Y-%m-%d %H:%M:%S")
 rpc3$key <- sub('Latency CIAPI.', '',rpc3$key)

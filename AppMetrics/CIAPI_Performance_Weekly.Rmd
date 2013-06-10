@@ -68,7 +68,7 @@ Latency between different services
 rpc2 <- logdata2[logdata2$"key" %in% c("Latency CIAPI.LogIn"
                                      ,"Latency CIAPI.LogOut"
                                      ,"Latency CIAPI.ListSpreadMarkets"
-                                     ,"Latency CIAPI.GetClientAndTradingAccount"     
+                                     ,"Latency CIAPI.GetClientAndTradingAccount"
                                      ,"Latency CIAPI.GetMarketInformation"
                                      ,"Latency CIAPI.GetPriceBars"
                                      ,"Latency CIAPI.ListOpenPositions"
@@ -83,12 +83,12 @@ rpc2 <- rpc2[rpc2$nodeName %in% c("AWS-EU-WEST-1B-79.125.25.36"),]
 
 d <- ggplot(rpc2, aes(x=datetime, y=as.double(value)))
 d <- d + ylab("Latency in seconds") + xlab("Measurement time (UTC)")
-d <- d + scale_y_log10(breaks=c(0.1,0.3,0.6), limits=c(0.05, 1.5))
+d <- d + scale_y_log10(breaks=c(0.1,0.3,0.6))
 d <- d + geom_hex()
 d <- d + stat_quantile( quantiles = c(0.5, 0.98) ) 
 d <- d + geom_rug(aes(x=NULL, y=as.double(value)), col=rgb(.5,0,0, alpha=.05))
 d <- d + scale_fill_gradient(low="grey", high="red") + theme_bw()
-d <- d + facet_grid(key ~ nodeName)
+d <- d + facet_grid(key ~ nodeName, scales="free_y")
 d <- d + opts(strip.text.y = theme_text( angle=0))
 print(d)
 ```

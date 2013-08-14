@@ -1,0 +1,117 @@
+```{r init, echo=FALSE}
+library("ggplot2")
+library("RCurl")
+library("plyr")
+library("scales")
+
+readRenviron("~/.Renviron") # Make sure you have a APPMETRICS_CREDENTIALS=username:password entry
+metrics_credentials <- Sys.getenv(c("APPMETRICS_CREDENTIALS"))
+```
+
+```{r vars, echo=FALSE}
+startTime <- "2013-08-05 00:00:00"
+endTime <- "2013-08-15 00:00:00"
+```
+
+```{r fetchData, echo=FALSE}
+application <- "CIAPI_Monitors"
+data_url <- URLencode(paste("http://metrics.labs.cityindex.com/GetRecords.ashx?Application=",application,"&StartTime=",startTime,'&EndTime=',endTime, sep = ''))
+
+webpage2 <- getURL(data_url,userpwd=metrics_credentials, httpauth = 1L)
+logdata2 <- read.table(tc <- textConnection(webpage2), header=F, sep="\t", fill=TRUE, as.is=c(1,4)); 
+close(tc)
+colnames(logdata2)=c('session','timestamp','key','value')
+```
+
+```{r groupSessionByNodes, echo=FALSE}
+nodes2 <- logdata2[logdata2$"key" %in% c("ClientIP"), ]
+
+nodes2$nodeName = nodes2$value
+
+nodes2 <- subset(nodes2, select=c(-timestamp,-key,-value))
+```
+
+```{r filterNames, echo=FALSE}
+logdata2bak <- logdata2
+
+logdata2$key <- sub('Latency.*', 'Latency', logdata2$key, perl = TRUE)
+logdata2 <- subset(logdata2, logdata2$key %in% c('Latency', 'Client_WorkingSet', 'Client_PrivateMemorySize', 'Client_PeriodProcessorUsage', 'Client_ThreadCount'))
+logdata2$value <- as.numeric(logdata2$value)
+
+uniqueFunctions <-  unique(logdata2$key)
+
+logdata2 <- join(logdata2, nodes2, by = "session", match = "first")
+logdata2 <- subset(logdata2, logdata2$nodeName %in% c('174.129.8.84'))
+
+logdata2$datetime <- strptime(logdata2$timestamp, "%Y-%m-%d %H:%M:%S")
+```
+
+```{r service_latency_plot, fig.width=10, fig.height = 7, tidy=FALSE, warning=FALSE}
+rpc2 <- logdata2[logdata2$"key" %in% c("Latency"), ]
+
+d <- ggplot(rpc2, aes(x=datetime, y=as.double(value)))
+d <- d + ylab("Latency in seconds") + xlab("Measurement time (UTC)")
+d <- d + scale_y_log10(breaks=c(0.1,0.3,0.6))
+d <- d + geom_hex()
+d <- d + geom_rug(aes(x=NULL, y=as.double(value)), col=rgb(.5,0,0, alpha=.05))
+d <- d + scale_fill_gradient(low="grey", high="red") + theme_bw()
+d <- d + facet_grid(key ~ nodeName, scales="free_y")
+d <- d + opts(strip.text.y = theme_text( angle=0))
+print(d)
+```
+
+```{r processor_usage_plot, fig.width=10, fig.height = 7, tidy=FALSE, warning=FALSE}
+rpc3 <- logdata2[logdata2$"key" %in% c("Client_PeriodProcessorUsage"), ]
+
+d <- ggplot(rpc3, aes(x=datetime, y=as.double(value)))
+d <- d + ylab("Processor usage") + xlab("Measurement time (UTC)")
+d <- d + scale_y_log10(breaks=c(1,2.5,5,7.5,10,25,50))
+d <- d + geom_hex()
+d <- d + geom_rug(aes(x=NULL, y=as.double(value)), col=rgb(.5,0,0, alpha=.05))
+d <- d + scale_fill_gradient(low="grey", high="red") + theme_bw()
+d <- d + facet_grid(key ~ nodeName, scales="free_y")
+d <- d + opts(strip.text.y = theme_text( angle=0))
+print(d)
+```
+
+```{r working_set_plot, fig.width=10, fig.height = 7, tidy=FALSE, warning=FALSE}
+rpc4 <- logdata2[logdata2$"key" %in% c("Client_WorkingSet"), ]
+
+d <- ggplot(rpc4, aes(x=datetime, y=as.double(value)))
+d <- d + ylab("Working set, megabytes") + xlab("Measurement time (UTC)")
+d <- d + scale_y_log10(breaks=c(8, 16, 32, 64, 128, 256, 512))
+d <- d + geom_hex()
+d <- d + geom_rug(aes(x=NULL, y=as.double(value)), col=rgb(.5,0,0, alpha=.05))
+d <- d + scale_fill_gradient(low="grey", high="red") + theme_bw()
+d <- d + facet_grid(key ~ nodeName, scales="free_y")
+d <- d + opts(strip.text.y = theme_text( angle=0))
+print(d)
+```
+
+```{r private_memory_plot, fig.width=10, fig.height = 7, tidy=FALSE, warning=FALSE}
+rpc5 <- logdata2[logdata2$"key" %in% c("Client_PrivateMemorySize"), ]
+
+d <- ggplot(rpc5, aes(x=datetime, y=as.double(value)))
+d <- d + ylab("Private memory size, megabytes") + xlab("Measurement time (UTC)")
+d <- d + scale_y_log10(breaks=c(8, 16, 32, 64, 128, 256, 512, 1024, 2048))
+d <- d + geom_hex()
+d <- d + geom_rug(aes(x=NULL, y=as.double(value)), col=rgb(.5,0,0, alpha=.05))
+d <- d + scale_fill_gradient(low="grey", high="red") + theme_bw()
+d <- d + facet_grid(key ~ nodeName, scales="free_y")
+d <- d + opts(strip.text.y = theme_text( angle=0))
+print(d)
+```
+
+```{r thread_count_plot, fig.width=10, fig.height = 7, tidy=FALSE, warning=FALSE}
+rpc5 <- logdata2[logdata2$"key" %in% c("Client_ThreadCount"), ]
+
+d <- ggplot(rpc5, aes(x=datetime, y=as.double(value)))
+d <- d + ylab("Thread count") + xlab("Measurement time (UTC)")
+d <- d + scale_y_log10(breaks=c(8, 16, 32, 64, 128, 256, 512, 1024, 2048))
+d <- d + geom_hex()
+d <- d + geom_rug(aes(x=NULL, y=as.double(value)), col=rgb(.5,0,0, alpha=.05))
+d <- d + scale_fill_gradient(low="grey", high="red") + theme_bw()
+d <- d + facet_grid(key ~ nodeName, scales="free_y")
+d <- d + opts(strip.text.y = theme_text( angle=0))
+print(d)
+```
